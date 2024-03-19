@@ -1,9 +1,9 @@
 {
   "issueKeyTestcaseValues": {},
-  "testManagerBasePath": "https://cloud.uipath.com/intelclhwnvo/defaulttenant/testmanager_/",
+  "testManagerBasePath": "https://cloud.uipath.com/dev_rpa_automations/DefaultTenant/testmanager_",
   "defaultProject": {
-    "id": "b2e643a0-5f2f-0000-1a5e-0b467a3761fd",
-    "name": "All_Combine_TestCases",
-    "key": "ALL"
+    "id": "103e4821-b131-0000-526c-0b46933347ef",
+    "name": "AWC_Automations",
+    "key": "AWC"
   }
 }
